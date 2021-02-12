@@ -34,7 +34,7 @@ BANNER = """
 # ==============================================
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # ==========MobSF Home Directory=================
-USE_HOME = False
+USE_HOME = True
 
 # True : All Uploads/Downloads will be stored in user's home directory
 # False : All Uploads/Downloads will be stored in MobSF root directory
